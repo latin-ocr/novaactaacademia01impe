@@ -1,0 +1,43 @@
+=·-—-= (5.1·) ===
+
+Demonstratio.
+
+Ponamus numerum primum P diuisorem ess‘e cuiuspiam
+'numeri in forma xx -†- nyy conteuti, ita vt fit μ P z
+x x -{- nyy3 erit ergo nyy Ξ μ P —- x x. Verum quadratum
+xx in sormi λΡ-ὶ-ιι continetur, quo substituto fiet nyy:
+(μ- λ) Ρ — α- ,- ν Ρ -α, ideoque 712- ‘—“. Quia autem
+
+ 
+
+yy est quadratum, in claffe refiduorum continssiun consequenter
+erit etiam ᾗ residuum, ideoque sub α comprehendi potest,
+
+vnde in integris habebimus n :xp ——a. Hinc igitur vicis-
+sim sequitur, quoties n fuerit numerus in forma λΡ-α con-
+
+tentus, tum semper exhiberi* posse numerum formae xx÷nyy
+diuisibilem per numerum primum P.
+
+Corollfuium 1.
+
+§. 7. Hinc crgo etiam intelligitur, fiadenotet quod·
+cunque non-residuum, respet‘tu numeri primi P, fueritque n
+uumerus in hac forma μΡ-α contentus, tum hunc nume·
+rum primum P nullo modo diuisorem fieri posse vilius nu-
+meri in forma xx÷nyy conteuti.
+
+Corollarium 2. e
+
+ᾗ. 3. Cum igitur omncs plane numeri vel in forma
+μΡ-α, xci in μΡ-α contineantur, hinc discimus, pro
+quouis numero primo P omnes numeros in duas class'es di-
+ssiibui, quirum ittaque totidem contineat numeros, propterea
+quod multitudo valorum ipsius α endem est ac valorum ipfius
+a, quarum claffium altera omnes continebit numeros n, vnde
+forn ula xx-i-nyy recipere queat diuisorem P, altera xero
+cla'm' is reliquos continebit numeros, qui fi pro n accipiantur,
+formula xx--l-nyy nullo modo per P diuifibilis effe querit.
+
+G 2 Scho-
+

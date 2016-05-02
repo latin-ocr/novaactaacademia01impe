@@ -1,0 +1,37 @@
+HISTOIRE. 225
+
+classe des refidus sera donc auffi ,ΜΡ-1), que l’Auteur nomme
+non · ressdus.
+
+Le second Theoreme.‚ que M. Eulcr demontre de deux
+manie‘re5‚ c'est que, l} la lettrea marque un refidu quelconque,
+& que le nombre n cst contenu dans la forme λΡ-α, on
+puiffe toujours affigner deux nombres xety., tels que la forme
+xx-4—nyy soit divifible par P. D'osl il suit que⁷ s1 α mar-
+que un non-residu ὅ( n un nombre de la forme μΡ-α, la
+forme ‚vx-l-nyy ne puiss‘e jamais erre divifible· par P.
+
+Tous les nombres etant ou de la forme μΡ-α, ou
+de la forme μΡ-α, il faut distribuet, pour chaque diviseur
+premier P, tous les nombrcs cn deux c121ff05‚ dont l'une con·
+[ient tous les nombrcs n qui tendent la forme xx—l—-nyy di-
+xifiblc par Ρ, ἃ l'autrc ceux 'qui excluent ce diviscur. Cela
+teman-que [Aurem est en etat de resoudre ce Probleme: La
+lettre n marquant un nombre? positis quelcmque, trouver tous
+les nombres premiers qui puissent erre dix-iseurs des nombres
+dc la forme xac—l-nyy, la Solution de ce Probleme est ac-
+con-,pagnee d‘une table qui, pour tontes les valeurs de n, de-
+puis 1 jusquu 50, marque tous les diviseurs premiers des nom-
+bres de la forme xx—}—nyy.
+
+Cette table qu'on peut affez filcilement continuet 2¹1 vo-
+lontc‘ pour des valeurs plus grandes den⁷ est suivie de laSo-
+lution d'un probleme analogue pour les cas οἱ] η est un nom·
+b.·e negatis, savoir ηΞ-ηι, & qui est pareillcment accom-
+pagnee d'unc table pour tous les dixifeurs premiers des nom-
+
+bres de la forme xx--myy‚ ou ηυγ-χχ, depuis mzz
+Jubqu'ai m Ξ 24.
+
+Histoire de 1783. f f M. Eu·
+

@@ -1,0 +1,38 @@
+222 HISTOIRE.
+
+D’apres cette consideration le Probleme des Trajed’toires
+peut etse enonce ainfi d'nne manierc tres-generale: Ayant de-
+crit une infinite de lignes courbes, tontes contemnes sous la
+meme equation entre les coordonnees & la quantite constante
+en question, trouver nne ligne courbe qui traverse toutes ces
+lignes sous un meme angle qnelconque.
+
+Ce point de vue n’est pas, 3 13 verite, tout-zl-fait nou-
+veau⁹ & feu M. Euler en avoir dejil fait usage pour resoudre
+le Probleme des Trajetfmires orthogonales, dans un memoire
+insere dans la premiere partie du Tome XIV. des nouveaux
+Commentaires. Mais on voit bien que la Solution du Pro-
+bieme, confidere de la maniere generale, comme il l⁷est ici,
+demande une me'thode differente, δε vqu'elle doit avoir bien plus
+de difficultes‚ δε meme d⁷insurmontables, pout 16 cas οιὶ les
+
+angles d⁷interseeton ne sont pas droits.
+
+Qnelle que soit l‘equation‚ par laquelle les courbes que
+la Trajetstoire doit conper sons le meme angle, sont represen-
+stes, il y a trois cas 3 distinguer entre eux. On peut regar.
+der 10) l'appliquee comme fone'tion de l'ubsciffe ὃ( du parame-
+tre3 20) l'absciffe comme fonffion de l⁷appliquee & du parame-
+tre3 3'0) le parametre comme fonction des deux coordonnees.
+
+Les deux premiers cas ne font proprement qu⁷un3 c'est
+pourquoi l'Auteur les traite auffi conjointement3 & il eclaircit
+13 Solution qu⁷ils lui fourniffent par plusieurs exemples. Mais
+ce qui merite une attention particuliere, c’est 13 propriete qu’il
+avoit dejci demontree, dans ses memoires americum, pour les
+‘Trajeecoires orthogonales: savoir 13 reciprocation des Traje-
+(toires ἃ des courbes qu'elles traversent. Car etant parvenu
+
+ᾗ une equation differentielle entre rabsciffe & le Pammene,
+dont
+

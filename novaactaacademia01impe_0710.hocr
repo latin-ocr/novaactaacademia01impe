@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademia01impe_0710.png"; bbox 0 0 3798 2158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1920 97 2383 125">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1920 97 2383 125">
+     <span class='ocr_line' id='line_1_1' title="bbox 1920 97 2383 125; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 1920 98 2062 125; x_wconf 73' lang='lat' dir='ltr'><em>Adffov.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2079 100 2161 124; x_wconf 59' lang='lat' dir='ltr'><em>Aah</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2173 101 2224 124; x_wconf 69' lang='lat' dir='ltr'><em>Ac.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2237 101 2281 124; x_wconf 66' lang='lat' dir='ltr'><em>Sa</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2293 97 2383 122; x_wconf 53' lang='lat' dir='ltr'><em>pem-2</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2385 93 2595 136">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2385 93 2595 136">
+     <span class='ocr_line' id='line_1_2' title="bbox 2385 93 2595 136; baseline -0.01 -16"><span class='ocrx_word' id='word_1_6' title='bbox 2385 95 2460 136; x_wconf 54' lang='lat' dir='ltr'><em>fol.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2471 93 2560 120; x_wconf 70' lang='lat' dir='ltr'><em>me.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2574 96 2595 118; x_wconf 84' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2936 82 3418 130">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2936 82 3418 130">
+     <span class='ocr_line' id='line_1_3' title="bbox 2936 82 3418 130; baseline -0.002 -16"><span class='ocrx_word' id='word_1_9' title='bbox 2936 89 2983 115; x_wconf 68' lang='lat' dir='ltr'><em>Dc</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 3003 85 3079 115; x_wconf 71' lang='lat' dir='ltr'><em>ord.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 3090 83 3167 130; x_wconf 68' lang='lat' dir='ltr'><em>fibr.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 3187 82 3294 114; x_wconf 55' lang='lat' dir='ltr'><em>‹vr-:sab</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 3320 82 3385 114; x_wconf 60' lang='lat' dir='ltr'><em>urb,</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 3399 88 3418 113; x_wconf 85' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 117 3506 2158">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 117 3506 2158">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 117 3506 2158; textangle 90"><span class='ocrx_word' id='word_1_15' title='bbox 0 117 3506 2158; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

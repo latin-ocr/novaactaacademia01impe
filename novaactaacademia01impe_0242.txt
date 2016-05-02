@@ -1,0 +1,40 @@
+224 HISTOIRE.
+
+jnffigrable requation differentielle qui contient la relation entre
+les coordonne'es des courbes coupantes‚
+
+II.
+
+Nouae demonstrationes circa diuisores numerorum
+formae x x —3— ny y.
+
+Auctore L. Emere, pag. 47.
+
+Μ. Euler avoir dej2‘1 donne dans le Tome XIV. des
+anciens Commentaires un grand nombre de Theoremes sur les
+diviseurs des nombres de la forme xx÷nyy; mais ces Theo-
+remes sont sans demonstrations3 & il a avoue lui-meme ne
+les avoir trouves que par indufflon. les Theoremes relatifs
+ἐι cet objet‚ qu‘il avoir donnes dans la suite, dans les Tomes
+IV, VI & VIII des nouveaux Commentaires, sont munis en
+partie de demonstrati01153 mnis ils ne vont que jusqu'aux nom-
+bres de la forme x.r—-†-3yy. M. de la Grange {⁸1 qui l'on
+doit tant de belles Demonstrations sur la nature & les proprie-
+tes des nombres‚ a pouss'e plus loin ces recherches dans un
+memoire intitule: Recherches d⁷Arithmc³tique‚ insere aux nouveaux
+memoires de l'Academie Royale des Sciences & belles-lettres
+de Berlin pour l'annee 17733 & c⁷est la 16ἂυῑ6 de ce memoire
+qui a fourni 31 feu M. Euler 1⁷occafion de reprendre cette ma-
+
+tiere.
+
+Il debute par la demonstr-arion du Theoreme, que fi
+l‘on divise tous les nombres quarres par un nombre premier
+P, le nombre de tous les refidus differens qui en resultent,
+soit toujours {OE -1). Tous les nombres plus petits que P
+
+etant au nombre de P— 1, dont celui des refidus ;(P—1)
+
+n'est que la moitie, le nombre de ceux qui sont exclus de la
+classe
+

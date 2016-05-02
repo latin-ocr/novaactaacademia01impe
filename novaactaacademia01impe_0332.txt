@@ -1,0 +1,43 @@
+...- (42) --.
+
+ 
+
+ 
+
+prodit sz'2 fiand), qui valores ‚ fi loco z et Φ valores
+modo affignati substituantur, statim praebent formulas iam su-
+pra euolutas. Nunc autem praeterea pro numero n ad arbi· ·
+trium etiam fractiones quascunque accipere licebit, fiquidem
+multiplicatio ac diuifio angulorum tanquam concessa spectetur.
+
+ξ. 66. Quantumuis autem magna fit multiplicitas ha-
+rum solutionum ⁷ tamen ea insuper Vsque ad duplum augeri
+potest. Quod fi enim bini valores coniugati pro litteris P et
+Q fuerint P :M et QZN3 tum etiam semper sumi poterit
+Pz—-N et Qz—l—M‚ hoc est, istos valores inter se per·
+mutare licet7 dummodo altervtrius fignum inuertatur, quod ita
+ostendi potest. Cum fit M:P; N:Q; szpbx—i-qby
+et BN :qap—p &y .‚ scribatur nunc qs loco p et ps loco
+——q., fiet &Mz--qsBx——psby et &Nz—-pfbx—-qsam
+vnde patet, litteram M idoneum praebere valorem pro Q, lit·
+teram vero N pro -— P.
+
+ᾗ. 67.— Hinc ergo fi pro P et Q sumantur quicunque
+¹valores coniugati, in superioribus tabulis dati, pro curuis secan·
+dis statui poterit talis aequatio:
+
+azffllP—-l—QQn'r-QlsPs—f-Q‘Qs—k- etc.
+tumque pro T raiedtoriis habebitur ista aequatio:
+
+b:Q(P-†—3 Q)—l—5³3> (Q—6 P)-÷-21'(P‘-÷-3Q²)
+—1—53' (Qs—-E Pl> etc.
+
+ᾗ. 68. Quoniam curu-ae secandae et Traiec‘toriae inter
+se permutari poss'unt, id quod tamen ex formulis inuentis non
+apparet„ operae pretium erit has formulas ita transformare.² vt
+
+permutabilitas statim in oculos incurrat. Hunc in finem con-
+fideremus has formulas:
+
+a:
+

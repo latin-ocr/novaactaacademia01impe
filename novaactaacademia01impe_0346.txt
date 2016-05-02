@@ -1,0 +1,38 @@
+ΞΕ (56) ==-.-‘
+
+tera continet vaiores idoneos litterae n, vt formula xx÷nyy
+pen· cum numerum primum P diuifibilis reddi queat, -altera
+vero cos numeros7 qui talem diuisionem respuunt, ac prae·
+terea multitudo numerorum in Vtraque classe contentorum ea-
+dem deprehenditur: ita viciffim pro quolibet numero n omnes
+numeros primos etiam in duas claffes distingui oportet, qua-
+rum altera continebit eos, qui diuisores exii ltete possunt for·
+mae x x÷nyy5 altera vero reliquos, qui nullo modo huius
+formae diuisores exfistere possunt. Pro Vtraque autem classe
+iam olim soi-mulas dedi generatim, ssmiles illis, quibus hic
+pro quolibet numero primo valores idoneos numeri n ab in-
+eptis distinxi: hoc tantum discrimine, quod, dum hic formu·
+lae diuisorem P respiciunt„ ibi numerus 4⁷² diuisoris locum
+obtineat. Scilicet pro diuisoribus primis numerorum formae
+xx—i-nyy dedi talem somnam: 4ni—i-A, pro iis vera, qui nullo
+modo diuisores effe poffunt, talem: 4ni—4-Qi, vbi litterae A
+et Q( simul complectuntur omnes numeros ad 472 primos ipso-
+que minores, ex quibus littera A continet eos qui ad diuifio-
+nem sunt apti„ littera vero ⁶21 eos qui excluduntur. Cum igi-
+tur has formulas olim per induetionem elicufflem, nunc nul-
+lum amplius dubium superesse potest, quin prior formula 4ni-÷-A
+complectatur omnes numeros primos, per quos formulam
+xx—Jrnyy diuidere licet, dum altera 4ni-—i-Q1 eos inuoluit,
+qui nullo modo diuisores exsistere possunt. Interim tamen
+has ambas formulas sequenti modo ex pofitis principiis deri-
+vare licebit.
+
+Problema.
+
+Proposito numero quocunque n posftf’uo, offignare omnes nu·
+
+meros primos, per quos numeri formae xx÷nyy diuifionem
+admittere queant.
+
+solutio.
+
